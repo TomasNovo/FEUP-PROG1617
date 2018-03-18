@@ -1,0 +1,4 @@
+1 ; Antonio Manuel ; 4 ; 36 ; 2
+3 ; Joaquim Belmiro ; 8 ; 48 ; 4
+5 ; Joao Francisco ; 9 ; 30 ; 5
+7 ; Jose Manuel ; 10 ; 33 ; 6
